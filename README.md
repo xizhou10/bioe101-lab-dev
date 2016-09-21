@@ -1,7 +1,7 @@
 ##Repository for past and current development for Bioengineering 101 Labs.
 
 
-## Current Status:
+## ToDo:
 - finishing up lab1 template, ipython code, equipment overview and sampling arduino code
 - work on porting over circuit review from old lab1 to new lab1
 
