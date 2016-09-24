@@ -1,0 +1,9 @@
+bioe101-labdev Meeting 9/23
+
+1) Documentation on centralized environment (github) - done
+2) Labs
+	- 1: intro + arduino + ipython
+	- 2: vocal 
+	- 3: wheatstone bridge, pressure sensor
+	- 4: ekg
+	- Final Project
