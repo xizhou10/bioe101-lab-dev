@@ -2,8 +2,10 @@
 
 
 ## ToDo:
-- finishing up lab1 template, ipython code, equipment overview and sampling arduino code
+- ~~ finishing up lab1 template, ipython code, equipment overview and sampling arduino code
+- ~~ physical implementation of lab 1 
 - work on porting over circuit review from old lab1 to new lab1
+- finish porting over lab 2 procedure, halfway done
 
 
 ## Documentation from past:
