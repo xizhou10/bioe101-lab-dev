@@ -2,8 +2,8 @@ bioe101-labdev Meeting 9/23
 
 1) Documentation on centralized environment (github) - done
 2) Labs
-	- 1: intro + arduino + ipython
-	- 2: vocal 
-	- 3: wheatstone bridge, pressure sensor
-	- 4: ekg
+	- 1: intro + arduino + ipython - Deadline: 9/28
+	- 2: vocal - Deadline: 10/5
+	- 3: wheatstone bridge, pressure sensor - Deadline: 10/12
+	- 4: ekg - Deadline: 10/19
 	- Final Project

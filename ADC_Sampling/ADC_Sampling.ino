@@ -1,5 +1,5 @@
-const int sig = A0;
-float interval = 500.0;
+const int sig = A5;
+float interval = 1000.0;
 float sig_val = 0;
 int i = 0;
 
@@ -13,7 +13,7 @@ void setup() {
   // set pin for ekg to input
   pinMode(sig, INPUT);
   // high baud rate
-  Serial.begin(57600);
+  Serial.begin(115200);
 
   // set up the ADC
   ADCSRA &= ~PS_128;  // remove bits set by Arduino library
