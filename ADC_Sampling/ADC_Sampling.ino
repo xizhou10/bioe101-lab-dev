@@ -1,4 +1,4 @@
-const int sig = A5;
+const int sig = A0;
 float interval = 1000.0;
 float sig_val = 0;
 int i = 0;
@@ -32,7 +32,7 @@ void loop() {
   if(curr_micros - previous_micros > interval) {
     // save the last time sampled 
     previous_micros = curr_micros;
-    sig_val = analogRead(sig);
+    sig_val = 5.0*analogRead(sig)/2048.0;
     Serial.println(sig_val);
   }
 }

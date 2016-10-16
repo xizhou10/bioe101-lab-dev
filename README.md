@@ -6,6 +6,7 @@
 - ~~physical implementation of lab 1~~ 
 - work on porting over circuit review from old lab1 to new lab1
 - finish porting over lab 2 procedure, halfway done
+- make procedure for GSI's
 
 
 ## Documentation from past:
