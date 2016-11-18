@@ -8,6 +8,9 @@
 - finish porting over lab 2 procedure, halfway done
 - make procedure for GSI's
 
+- Make a budget for Arduinos/equipment
+- Port over procedures from Lab 3, Lab 4
+
 
 ## Documentation from past:
 
