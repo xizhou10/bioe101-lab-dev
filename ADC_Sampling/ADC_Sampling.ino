@@ -32,7 +32,7 @@ void loop() {
   if(curr_micros - previous_micros > interval) {
     // save the last time sampled 
     previous_micros = curr_micros;
-    sig_val = 5.0*analogRead(sig)/2048.0;
+    sig_val = 5.0*analogRead(sig)/1024.0;
     Serial.println(sig_val);
   }
 }
