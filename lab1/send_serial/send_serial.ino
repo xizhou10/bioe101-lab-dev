@@ -1,5 +1,6 @@
 const int sig = A0;
-float interval = 1000.0;
+float interval = 1000.0; //us
+// [1 / interval (us)] * [10^6 us / sec] = samples per sec
 float sig_val = 0;
 int i = 0;
 
